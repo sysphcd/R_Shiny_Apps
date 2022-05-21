@@ -1,0 +1,13 @@
+name: USArrestDashboard
+title: USArrestDashboard
+username:
+account: sysph
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6345682
+bundleId: 5929675
+url: https://sysph.shinyapps.io/USArrestDashboard/
+when: 1653124758.80438
+lastSyncTime: 1653124758.8044
+asMultiple: FALSE
+asStatic: FALSE
