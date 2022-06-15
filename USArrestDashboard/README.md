@@ -1,10 +1,12 @@
+1973 US Arrests Dashboard 
+
 # Working directory
 
 ui.R - UI Elements
 
-server.R - Computation and Reactivity
+server.R - functions, Shiny Server component for dashboard, Computation and Reactivity
 
-global.R - helper, contain used objects, accessible by ui and server
+global.R - Load the required packages, Dataset Manipulation, helper, contain used objects, accessible by ui and server
 
 # Features
 
@@ -18,3 +20,10 @@ visualizations in multi tabPanel layout
 
 3 file app structure (ui.r, server.r, global.r)
 
+# Used Tools and libraries
+
+RStudio Desktop
+
+shiny
+
+shinydashboard
