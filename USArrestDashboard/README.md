@@ -1,6 +1,8 @@
-1973 US Arrests Dashboard 
+# 1973 US Arrests Dashboard App
 
-# Working directory
+[Project link](https://sysph.shinyapps.io/USArrestDashboard/)
+
+### Working directory
 
 ui.R - UI Elements
 
@@ -8,7 +10,7 @@ server.R - functions, Shiny Server component for dashboard, Computation and Reac
 
 global.R - Load the required packages, Dataset Manipulation, helper, contain used objects, accessible by ui and server
 
-# Features
+### Features
 
 Shinydashboard layout
 
@@ -20,7 +22,7 @@ visualizations in multi tabPanel layout
 
 3 file app structure (ui.r, server.r, global.r)
 
-# Used Tools and libraries
+### Used Tools and libraries
 
 RStudio Desktop
 
